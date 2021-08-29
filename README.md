@@ -1,6 +1,8 @@
 # Google-Developers-Machine-Learning-Bootcamp
 
-![unnamed](https://user-images.githubusercontent.com/55614265/131215977-6e2aa3d8-2a20-4b0a-8a86-6d1e5665107d.png)
+<p align="center">
+  <img alt="unnamed" src="https://user-images.githubusercontent.com/55614265/131215977-6e2aa3d8-2a20-4b0a-8a86-6d1e5665107d.png"/>
+</p>
 
 ## [프로그램 소개](https://events.withgoogle.com/google-developers-mlb-kr-2021/#content)
 
@@ -15,7 +17,9 @@ Google Developers Machine Learning Bootcamp는 머신러닝 개발자로 발돋�
 3. 프로젝트 실습
 4. 머신러닝 회사와의 네트워크 형성 및 취업 연계
 
-![unnamed](https://user-images.githubusercontent.com/55614265/131250004-59b234bd-c69c-4d5f-a98a-f84e74fa7f68.png)
+<p align="center">
+  <img alt="unnamed" src="https://user-images.githubusercontent.com/55614265/131250004-59b234bd-c69c-4d5f-a98a-f84e74fa7f68.png"/>
+</p>
 
 ## [모집 요강](https://events.withgoogle.com/google-developers-mlb-kr-2021/guide/#content)
 
@@ -42,4 +46,6 @@ Google Developers Machine Learning Bootcamp는 머신러닝 개발자로 발돋�
 
 ### 교과 과정 상세 일정
 
-![unnamed](https://user-images.githubusercontent.com/55614265/131249918-23589412-3961-4487-b8e4-4be9b2c20fdd.png)
+<p align="center">
+  <img alt="unnamed" src="https://user-images.githubusercontent.com/55614265/131249918-23589412-3961-4487-b8e4-4be9b2c20fdd.png"/>
+</p>
